@@ -18,6 +18,11 @@ module.exports = defineConfig({
                 util: false,
                 path: false,
                 stream: false,
+                http: false,
+                url: false,
+                zlib: false,
+                https: false,
+                "crypto-browserify": require.resolve('crypto-browserify'),
             }
         }
     }
