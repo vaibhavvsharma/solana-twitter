@@ -6,7 +6,8 @@ Tech Stack
 VueJS, TailwindCSS, JavaScript, Web3.js, Rust and Anchor Framework 
 
 # Screenshot
-![image](https://github.com/vaibhavvsharma/solana-twitter/assets/35368146/a4281fde-da91-4156-b562-af29615f917d)
+![image](https://github.com/vaibhavvsharma/solana-twitter/assets/35368146/68e2b554-7b2e-4503-9414-4aea3fbe9b22)
+
 
 # Feedback
 If you have any feedback, please reach out to me at vaibhavvsharma@hotmail.com
